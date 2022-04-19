@@ -36,7 +36,7 @@
     ```commandline
     make -j4
     ```
-- 2-4 executable can be found in the build folder
+- 2-4 executable binary file can be found in the build folder
     ```commandline
     ./tsmm
     
